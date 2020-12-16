@@ -6,7 +6,7 @@ XidanEE-Private - 西安电子科技大学电子工程学院课程笔记、大�
 - 随机信号分析
 - 信号完整性与电源完整性
 - 微机原理与接口技术
-- 数字电路与 EDA 实验
+- 数字电路与 EDA 
 ## 许可
 本仓库所有内容，如无特别说明，均出自本人 [@sunlingbot](https://github.com/sunlingbot) 之手，使用许可 [(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
 
